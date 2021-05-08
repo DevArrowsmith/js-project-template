@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I created this repo for the quick commencement of web projects using <span style="color:crimson">HTML</span>, <span style="color:cornflowerblue">CSS</span> & <span style="color:goldenrod">JavaScript</span>.
+I created this repo for the quick commencement of web projects using <span style="color:crimson">HTML</span>, <span style="color:cornflowerblue">CSS</span> & <span style="color:goldenrod">JavaScript</span> with <span style="color:mediumspringgreen">Jest</span> for test-driven development..
 
 ---
 
@@ -55,6 +55,8 @@ Here are some tips:
 ---
 
 ## Next Steps
+
+I'd like to expand this repo. Here are some ideas:
 
 - Include a/several template HTML files with more content, such as headers, footers, navbars.
 - Include CSS and JS files for the above, with test suites.
